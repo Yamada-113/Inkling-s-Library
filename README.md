@@ -1,10 +1,10 @@
-# Inkling-s-Library
+# Inkling's-Library
 Mata kuliah: Pemrograman Berorientasi Objek
 Dosen Pengampu: Herika Hayurani
 
 Kelompok [Abyssal]:
 [Septiana Dewi Anggita - Ketua], [A], [1402024051]
-[Putri Suja Riska Trania -  Anggota 1], [A], [1402024047]
+[Putri Suja Riska Trania -  Anggota], [A], [1402024047]
 
 Deskripsi Singkat Program:
 Aplikasi Ingklings Library merupakan sistem informasi perpustakaan berbasis desktop yang dikembangkan menggunakan bahasa pemrograman Java dengan antarmuka grafis Java Swing serta database MySQL. 
